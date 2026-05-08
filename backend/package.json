@@ -5,9 +5,7 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "dev": "nodemon server.js",
-    "mongo:demo": "node scripts/mongodb-basic-commands.js",
-    "mongo:crud": "node scripts/mongodb-crud-dataset.js"
+    "dev": "nodemon server.js"
   },
   "dependencies": {
     "bcryptjs": "^2.4.3",
