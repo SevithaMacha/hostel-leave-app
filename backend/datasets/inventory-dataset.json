@@ -1,0 +1,7 @@
+[
+  { "itemCode": "ITM-101", "name": "Notebook", "category": "Stationery", "price": 45, "quantity": 120, "supplier": "Campus Mart" },
+  { "itemCode": "ITM-102", "name": "Pen", "category": "Stationery", "price": 12, "quantity": 250, "supplier": "Campus Mart" },
+  { "itemCode": "ITM-103", "name": "Water Bottle", "category": "Utilities", "price": 180, "quantity": 60, "supplier": "HydroPlus" },
+  { "itemCode": "ITM-104", "name": "Desk Lamp", "category": "Electronics", "price": 650, "quantity": 25, "supplier": "BrightHome" },
+  { "itemCode": "ITM-105", "name": "Backpack", "category": "Accessories", "price": 999, "quantity": 18, "supplier": "UrbanCarry" }
+]
